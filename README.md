@@ -56,9 +56,9 @@ A fullstack cloud-based image and video gallery built using the *MERN stack* wit
 
 ## 📂 Folder Structure
 
-
--root/
--├── backend/
+```
+root/
+├── backend/
 │   ├── models/
 │   │   ├── User.js
 │   │   ├── Image.js
@@ -80,7 +80,7 @@ A fullstack cloud-based image and video gallery built using the *MERN stack* wit
 │       ├── App.js
 │       └── index.js
 
-
+```
 
 ---
 
@@ -88,7 +88,7 @@ A fullstack cloud-based image and video gallery built using the *MERN stack* wit
 
 Create a .env file in the backend/ folder:
 
-
+```
 PORT=5000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
@@ -96,7 +96,7 @@ AWS_ACCESS_KEY_ID=your_aws_access_key
 AWS_SECRET_ACCESS_KEY=your_aws_secret_key
 AWS_REGION=your_aws_region
 AWS_BUCKET_NAME=your_s3_bucket_name
-
+```
 
 ---
 
