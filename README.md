@@ -179,5 +179,5 @@ Have ideas to improve this project? Feel free to open issues or submit pull requ
 
 - [*Shamanth Krishna V.R*](www.linkedin.com/in/shamanth-krishna-v-r-89178b267)
 - [*Shrinidhi Upadhyaya*](https://www.linkedin.com/in/shrinidhi-upadhyaya-82114a26a)
-- [*Sudhama Bhat*]([https://github.com/Sudhama-bhat](https://www.linkedin.com/in/sudhama-bhat-349a31241))
+- [*Sudhama Bhat*](https://www.linkedin.com/in/sudhama-bhat-349a31241)
 - *Raviraj M.J*
