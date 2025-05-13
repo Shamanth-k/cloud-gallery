@@ -135,20 +135,26 @@ npm start
 
 Below are a few screenshots from the Cloud Media Gallery app:
 
-### 🏠 Home Page
-
-![Home Page](screenshots/home-page.png)
-
-### 🖼️  Home View
-
-![Home Page 2](screenshots/home-page2.png)
-
 ### 🔐 Sign In Page
 
 ![Sign In](screenshots/sign-in.png)
 
+---
+### 🖼️  Home View
+
+![Home Page ](screenshots/home-page2.png)
+
+
+
 
 ---
+### 🏠 Home Page
+
+![Home Page 2](screenshots/home-page.png)
+
+---
+
+
 
 ## 👥 Team Credits
 
