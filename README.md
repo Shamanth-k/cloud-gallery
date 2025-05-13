@@ -58,27 +58,28 @@ A fullstack cloud-based image and video gallery built using the *MERN stack* wit
 
 
 root/
-├── backend/.
-│   ├── models/.
-│   │   ├── User.js.
-│   │   ├── Image.js.
-│   │   └── Video.js.
-│   ├── middlewares/.
-│   │   ├── authMiddleware.js.
-│   │   └── errorMiddleware.js.
-│   ├── routes/.
-│   │   ├── auth.js.
-│   │   └── gallery.js.
-│   ├── config/.
-│   │   └── awsConfig.js.
-│   ├── app.js.
-│   └── .env.
-└── frontend/.
-    ├── src/.
-    │   ├── components/.
-    │   │   └── Dashboard.js.
-    │   ├── App.js.
-    │   └── index.js.
+├── backend/
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Image.js
+│   │   └── Video.js
+│   ├── middlewares/
+│   │   └── authMiddleware.js
+│   ├── errorMiddleware.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   └── gallery.js
+│   ├── config/
+│   │   └── awsConfig.js
+│   ├── app.js
+│   └── .env
+├── frontend/
+│   └── src/
+│       ├── components/
+│       │   └── Dashboard.js
+│       ├── App.js
+│       └── index.js
+
 
 
 ---
