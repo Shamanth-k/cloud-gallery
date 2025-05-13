@@ -57,8 +57,8 @@ A fullstack cloud-based image and video gallery built using the *MERN stack* wit
 ## 📂 Folder Structure
 
 
-root/
-├── backend/
+-root/
+-├── backend/
 │   ├── models/
 │   │   ├── User.js
 │   │   ├── Image.js
