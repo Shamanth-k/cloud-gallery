@@ -153,10 +153,9 @@ Below are a few screenshots from the Cloud Media Gallery app:
 ## 👥 Team Credits
 
 Built with ❤ by:
+- [*Shamanth Krishna V.R*](https://github.com/Shamanth-k)
 
 - [*Shrinidhi Upadhyaya*](https://github.com/Shrinidhi972004)
-
-- [*Shamanth Krishna V.R*](https://github.com/Shamanth-k)
 
 - [*Sudhama Bhat*](https://github.com/Sudhama-bhat)
 
@@ -181,4 +180,6 @@ Have ideas to improve this project? Feel free to open issues or submit pull requ
 > Add your LinkedIn or GitHub profiles here for team members if you'd like:
 
 - [*Shamanth Krishna V.R*](https://github.com/Shamanth-k)
-- [Your teammates...]
+- [*Shrinidhi Upadhyaya*](https://github.com/Shrinidhi972004)
+- [*Sudhama Bhat*](https://github.com/Sudhama-bhat)
+- *Raviraj M.J*
